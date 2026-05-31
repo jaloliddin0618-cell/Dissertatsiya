@@ -1,311 +1,373 @@
-# I BOB. SUGU'ORILADIGAN YERLAR DEGRADATSIYASI VA GAT TEXNOLOGIYALARI: ADABIYOTLAR SHARHI
+# I BOB. SUG'ORILADIGAN YERLAR DEGRADATSIYASI VA GAT TEXNOLOGIYALARINING NAZARIY ASOSLARI
 
-## 1.1. Sug'oriladigan yerlar degradatsiyasi: tushuncha, turlari va global miqyos
+## § 1.1. Sug'oriladigan yerlar degradatsiyasining mohiyati, turlari va global miqyosdagi holati
 
-### 1.1.1. Yer degradatsiyasi tushunchasi
+### 1.1.1. Yer degradatsiyasi tushunchasi va ta'riflari
 
-Yer degradatsiyasi (land degradation) — tuproqning biologik yoki iqtisodiy unumdorligining
-vaqtinchalik yoki doimiy ravishda pasayishi bo'lib, tabiiy va antropogen omillar ta'sirida
-yuzaga keladi. BMT Cho'llashishga Qarshi Kurashish Konventsiyasi (UNCCD) ta'rifiga ko'ra,
-yer degradatsiyasi — quruqlik ekotizimlarining funksiyalari, mahsuldorligi va ekologik
-xizmatlar ko'rsatish salohiyatining pasayishi sifatida belgilanadi.
+Yer degradatsiyasi (land degradation) — tuproqning biologik, ekologik va
+iqtisodiy funksiyalarining vaqtinchalik yoki doimiy ravishda pasayishi jarayoni
+bo'lib, tabiiy va antropogen omillar ta'sirida yuzaga keladi. BMT Cho'llashishga
+Qarshi Kurashish Konventsiyasi (UNCCD, 1994) ta'rifiga ko'ra, yer degradatsiyasi —
+quruqlik ekotizimlarining funksiyalari, mahsuldorligi va ekologik xizmatlar
+ko'rsatish salohiyatining susayishi sifatida belgilanadi.
 
-Xalqaro ilmiy adabiyotlarda yer degradatsiyasining quyidagi asosiy turlari ajratib ko'rsatiladi
-(Oldeman et al., 1991; FAO, 2011):
-- **Tuproq eroziyasi** — shamol va suv ta'sirida tuproqning mexanik yo'qotilishi;
-- **Tuproqning kimyoviy degradatsiyasi** — sho'rlanish, kislotalanish, ifloslantirish;
-- **Tuproqning fizik degradatsiyasi** — zichlashish, qatqaloq hosil bo'lishi;
-- **Biologik degradatsiya** — organik modda va biodiversitening kamayishi;
-- **Botqoqlashish (waterlogging)** — grunt suvlarining ko'tarilishi natijasida tuproq havoroqligining pasayishi.
+Sug'oriladigan yerlar degradatsiyasi o'z mohiyatiga ko'ra quyidagi
+asosiy turlarga bo'linadi (FAO, 2011; Oldeman et al., 1991):
 
-### 1.1.2. Global va mintaqaviy miqyos
+**1. Kimyoviy degradatsiya:**
+- *Ikkilamchi sho'rlanish* — sug'orish va grunt suvlarining ko'tarilishi
+  oqibatida tuproqda erigan tuzlarning to'planishi;
+- *Kislotalanish* — tuproq muhitining nordon tomonga o'zgarishi;
+- *Ifloslantirish* — kimyoviy moddalar va og'ir metallarning tuproqqa
+  kirib borishi.
 
-Global miqyosda yer degradatsiyasi jiddiy muammoga aylangan. Xalqaro tadqiqotlar natijalariga
-ko'ra (IPBES, 2018; FAO, 2022):
-- Dunyo quruqligining taxminan 40 foizi ma'lum darajada degradatsiyaga uchragan;
-- Har yili 12 mln gektar unumdor yer yo'qolmoqda;
-- Degradatsiya oqibatida yillik 400 milliard dollar iqtisodiy zarar yetkazilmoqda;
-- 3,2 milliard aholi degradatsiyaga uchragan hududlarda yashaydi.
+**2. Fizik degradatsiya:**
+- *Botqoqlashish (waterlogging)* — grunt suvlari sathining ko'tarilishi
+  natijasida tuproqning havo almashuvi buzilishi;
+- *Zichlashish* — og'ir texnikalar ta'sirida tuproq strukturasining
+  buzilishi;
+- *Qatqaloq hosil bo'lishi* — tuproq yuzasining qotishi.
 
-Markaziy Osiyoda, xususan O'zbekistonda, sug'oriladigan yerlar degradatsiyasi alohida
-keskinlikni kasb etadi. IWMI (Xalqaro Suv Boshqaruvi Instituti) ma'lumotlariga ko'ra,
-O'zbekistondagi sug'oriladigan yerlarning 60 foizidan ortig'i (2,47 mln ga) botqoqlashgan,
-60 foizi (2,43 mln ga) esa turli darajada sho'rlangan (IWMI, 2017).
+**3. Biologik degradatsiya:**
+- Organik moddalar miqdorining kamayishi;
+- Tuproq mikrobiologik faolligining pasayishi;
+- Biodiversitening kamayishi.
 
----
+**4. Eroziya:**
+- *Suv eroziyasi* — sug'orish suvi oqimi ta'sirida tuproqning yuvilishi;
+- *Shamol eroziyasi* — quruq va yal'ang'och tuproqning shamol ta'sirida
+  ko'chishi.
 
-## 1.2. Sug'oriladigan yerlarda degradatsiyaning asosiy turlari
+### 1.1.2. Global miqyosdagi holat
 
-### 1.2.1. Ikkilamchi sho'rlanish
+Yer degradatsiyasi hozirgi davrda insoniyat oldidagi eng muhim
+ekologik-iqtisodiy muammolardan biriga aylangan. IPBES (2018) ma'lumotlariga
+ko'ra:
 
-Ikkilamchi sho'rlanish (secondary salinization) — sug'orish ta'sirida tuproqda erigan tuzlarning
-to'planishi jarayoni bo'lib, Orol dengizi havzasida keng tarqalgan. Sho'rlanishning asosiy
-sabablari (Dregne & Chou, 1992; Qadir et al., 2014):
-- Sug'orish suvining sifatsizligi (yuqori mineral tarkib);
-- Drenaj tizimining yetarli emasligi;
-- Grunt suvlarining ko'tarilishi va bug'lanish orqali tuzlarning yuzaga chiqishi;
-- Noto'g'ri sug'orish normalari.
+- Dunyo quruqligining **40 foizi** ma'lum darajada degradatsiyaga uchragan;
+- Har yili **12 million gektar** unumdor yer yo'qolmoqda;
+- Yer degradatsiyasi yillik **400 milliard dollar** iqtisodiy zararni
+  keltirib chiqarmoqda;
+- **3,2 milliard** aholi degradatsiyaga uchragan hududlarda yashaydi.
 
-Sho'rlanish darajasi bo'yicha klassifikatsiya (O'zR Davlat standarti va USDA bo'yicha):
-| Daraja | ECe (dS/m) | Tavsif |
-|--------|-----------|--------|
-| Sho'rlanmagan | < 2 | Normal |
-| Kuchsiz sho'rlangan | 2–4 | Mahsuldorlik biroz pasayadi |
-| O'rtacha sho'rlangan | 4–8 | Mahsuldorlik sezilarli pasayadi |
-| Kuchli sho'rlangan | 8–16 | Faqat chidamli ekinlar o'sadi |
-| Juda kuchli sho'rlangan | > 16 | Dehqonchilik imkonsiz |
+Sug'oriladigan yerlar esa alohida xavf ostida. FAO (2022) hisobiga ko'ra,
+dunyo bo'yicha sug'oriladigan yerlarning **50 foizidan ortig'i** turli
+darajada sho'rlanishga yoki botqoqlashishga uchragan. Markaziy Osiyoda
+bu ko'rsatkich yanada yuqori — mintaqadagi sug'oriladigan yerlarning
+**60 foiziga yaqini** degradatsiya ta'sirida (IWMI, 2017).
 
-O'zbekiston sharoitida ikkilamchi sho'rlanish bo'yicha muhim tadqiqotlar olib borilgan:
-Farg'ona vodiysida Landsat 8 tasvirlari yordamida tuproq sho'rlanishini xaritalash bo'yicha
-tadqiqot (Mirsagatov et al., 2021), Sirdaryo viloyatida ko'p vaqtli tahlil (Yuldashev et al., 2021),
-Xorazm viloyatida iqlim o'zgarishi sharoitida sho'rlanish baholash (Tashkentov et al., 2022).
+### 1.1.3. Ikkilamchi sho'rlanish: mexanizm va oqibatlari
 
-### 1.2.2. Botqoqlashish
+Ikkilamchi sho'rlanish sug'oriladigan hududlarda uchraydigan eng keng
+tarqalgan degradatsiya turi hisoblanadi. Uning yuzaga kelish mexanizmi
+quyidagicha:
 
-Botqoqlashish (waterlogging) — grunt suvlari sathining ko'tarilishi natijasida tuproqning havo
-almashuvining buzilishi. Bu hodisa asosan quyidagi sabablar bilan bog'liq:
-- Ortiqcha sug'orish (filtratsion yo'qotishlar);
+```
+Ortiqcha sug'orish
+      │
+      ▼
+Yerga singmagan suv → grunt suvlari sathini ko'taradi
+      │
+      ▼
+Grunt suvi kapilyar ko'tarilish orqali tuproq yuzasiga chiqadi
+      │
+      ▼
+Suv bug'lanadi, tuzlar esa tuproq yuzasida qoladi
+      │
+      ▼
+Tuproqda tuzlar to'planadi → SHOLASH (sho'rlanish)
+```
+
+Sho'rlanish darajasi bo'yicha xalqaro klassifikatsiya (USDA bo'yicha):
+
+| Daraja | ECe (dS/m) | Hosildorlikka ta'siri |
+|--------|-----------|----------------------|
+| Sho'rlanmagan | < 2 | Ta'sir yo'q |
+| Kuchsiz | 2 – 4 | Sezgir ekinlarda 10–25% pasayish |
+| O'rtacha | 4 – 8 | Ko'pchilik ekinlarda 25–50% pasayish |
+| Kuchli | 8 – 16 | Faqat chidamli ekinlar o'sadi |
+| Juda kuchli | > 16 | Dehqonchilik imkonsiz |
+
+### 1.1.4. Botqoqlashish va uning sabablari
+
+Botqoqlashish (waterlogging) grunt suvlari sathining o'simlik ildizlari
+zonasiga yaqinlashishi yoki ko'tarilishi natijasida yuzaga keladi.
+Asosiy sabablari:
+
+- Sug'orish normalarining oshib ketishi (filtratsion yo'qotishlar);
 - Drenaj tizimining ishlamasligi yoki yetarli emasligi;
-- Kanallardan filtratsiya.
+- Kanallardan suv filtrasiyasi;
+- Tabiiy relyef sharoiti (past tekisliklar).
 
-Tadqiqotlar shuni ko'rsatadiki, grunt suvlari sathi 1–2 m gacha ko'tarilganda tuproqning
-aeratsiyasi buziladi va o'simlik ildizlarining nafas olishi qiyinlashadi. 0,5 m dan kam
-chuqurlikdagi grunt suvlari esa aksariyat qishloq xo'jaligi ekinlari uchun halokatlidir.
-
-### 1.2.3. Tuproq unumdorligining pasayishi va eroziya
-
-NDVI (Normalized Difference Vegetation Index) indeksi yordamida o'tkazilgan ko'p yillik
-tadqiqotlar sug'oriladigan hududlarda o'simlik qoplami va tuproq unumdorligining sezilarli
-pasayganligini ko'rsatmoqda. Rasmiy statistik ma'lumotlarga ko'ra, O'zbekistonda
-sug'oriladigan yerlarning o'rtacha hosildorligi 1980-yillar bilan solishtirganda 15–25%
-ga kamaygan.
+Tuproqdagi grunt suvi sathi 1,5 m dan yuqori ko'tarilganda
+tuproqning aeratsiyasi buzila boshlaydi. 0,5 m dan kam chuqurlikdagi
+grunt suvlari aksariyat qishloq xo'jaligi ekinlari uchun halokatli
+hisoblanadi (Qadir et al., 2014).
 
 ---
 
-## 1.3. Yer Degradatsiyasi Neytralligining (LDN) xalqaro kontseptsiyasi
+## § 1.2. Sirdaryo viloyatida sug'oriladigan yerlar holatining tahlili
 
-### 1.3.1. LDN kontseptsiyasining mohiyati
+### 1.2.1. Sirdaryo viloyatining umumiy tavsifi
 
-Yer Degradatsiyasi Neytrallik (LDN — Land Degradation Neutrality) kontseptsiyasi BMT
-Barqavor Rivojlanish Maqsadlarining (BRM) 15.3-maqsadi doirasida 2015 yilda rasmiylashtirilgan.
-UNCCD tomonidan ishlab chiqilgan LDN kontseptsiyasining mohiyati quyidagicha:
-yer resurslarining soni va sifati ma'lum vaqt oralig'ida saqlanib qolishi yoki yaxshilanishi
-kerak (UNCCD, 2016).
+Sirdaryo viloyati O'zbekiston Respublikasining markaziy qismida joylashgan
+bo'lib, shimoldan Qozog'iston, sharqdan Toshkent va Jizzax viloyatlari,
+g'arbdan esa Navoiy viloyati bilan chegaralanadi.
 
-LDN ning asosiy tamoyili: **"No net loss"** — yer resurslarining yalpi yo'qolishiga yo'l
-qo'ymaslik. Bunda degradatsiyaga uchragan yerlarni aniqlash va ularni qayta tiklash
-orqali balansni saqlash nazarda tutiladi.
+Asosiy geografik va demografik ko'rsatkichlar:
 
-### 1.3.2. LDN ko'rsatkichlari (indikatоrlari)
+| Ko'rsatkich | Qiymat |
+|-------------|--------|
+| Umumiy maydon | 4 276 km² |
+| Aholisi (2021) | ~860 900 kishi |
+| Ma'muriy markaz | Guliston shahri |
+| Tumanlar soni | 8 ta |
+| Sug'oriladigan yer maydoni | ~220 000 ga |
+| Asosiy daryolar | Sirdaryo, Ohangaron |
 
-UNCCD tomonidan LDN ni baholash uchun uchta asosiy global ko'rsatkich belgilangan
-(Orr et al., 2017; Cowie et al., 2018):
+Viloyat hududining katta qismini **Mirzacho'l** cho'li egallaydi —
+bu tarixan sug'oriladigan qad. o'zbekiston dehqonchiligining kengaytirilgan
+hududi bo'lib, XX asrning 50–60-yillarida keng ko'lamli irrigatsiya
+loyihalari asosida o'zlashtirilgan. Mirzacho'lning tabiiy sharoiti
+(tekis relyef, yuqori tuz zaxirali gruntlar, qurg'oqchil iqlim) sug'oriladigan
+dehqonchilik uchun noqulay bo'lib, meliorativ muammolarni yanada og'irlashtiradi.
 
-1. **Yer qoplami o'zgarishi (Land Cover Change)** — MODIS/Landsat ma'lumotlari asosida;
-2. **Yerning biologik mahsuldorligi (Land Productivity Dynamics — LPD)** — NDVI vaqt qatori;
-3. **Tuproqdagi organik uglerod zaxirasi (Soil Organic Carbon — SOC)** — RothC modeli.
+### 1.2.2. Iqlim va gidrogeologik sharoit
 
-Ushbu uch ko'rsatkich "bir-birovini chiqarib tashlash" (one-out-all-out) tamoyili asosida
-baholanadi: agar ulardan biri yomonlashsa, yer degradatsiyalashgan deb hisoblanadi.
+Sirdaryo viloyatida kontinental iqlim hukmron:
+- Yoz: quruq va issiq (+35...+40°C), yog'ingarchilik deyarli yo'q;
+- Qish: sovuq (-10...-15°C), qor kamdan-kam yog'adi;
+- Yillik yog'ingarchilik: 200–280 mm (asosan bahor);
+- Yillik bug'lanish: 1 200–1 500 mm.
 
-### 1.3.3. LDN va GAT texnologiyalari
+Bunday sharoitda tabiiy yuvish imkoni yo'q, sug'orish esa zudlik bilan
+botqoqlashish va sho'rlanishga olib keladi.
 
-2023 yilda Kust et al. tomonidan o'tkazilgan tadqiqot (MDPI Sensors, 23(14), 6419) —
-O'zbekistonning Andijon, Namangan, Farg'ona va Sirdaryo viloyatlarida LDN kontseptsiyasini
-masofadan zondlash ma'lumotlari asosida qo'llash imkoniyatini ko'rsatdi. Ushbu tadqiqot
-Sentinel-2 va MODIS ma'lumotlari kombinatsiyasidan foydalanib, sug'oriladigan yerlarning
-barqarorlik tendentsiyasini baholadi.
+Gidrogeologik jihatdan viloyat quyidagi xususiyatlarga ega:
+- Grunt suvlari chuqurligi: ko'p hududlarda 1–3 m;
+- Grunt suvlari mineralizatsiyasi: 3–15 g/l (ba'zi hududlarda 30 g/l gacha);
+- Sirdaryo daryosining suv sifati: 0,8–1,5 g/l mineral tarkib.
+
+### 1.2.3. Sirdaryo viloyatida degradatsiyaning hozirgi holati
+
+Ilmiy adabiyotlar va rasmiy statistika ma'lumotlari asosida
+Sirdaryo viloyatida sug'oriladigan yerlar degradatsiyasining holati
+quyidagicha tavsiflanadi:
+
+**Sho'rlanish holati:**
+Sirdaryo viloyatida o'tkazilgan ko'p yillik tadqiqotlar (Yuldashev et al., 2021;
+Springer Water, Air, & Soil Pollution) shuni ko'rsatadiki:
+- Sug'oriladigan yerlarning **50% gacha** turli darajada sho'rlangan;
+- **Kuchli va juda kuchli sho'rlanish** viloyat sug'oriladigan
+  maydonining 15–20 foizida kuzatiladi;
+- Sho'rlanish grunt suvlari sathi bilan kuchli bog'liq (r > 0,7);
+- Sho'rlanish dinamikasi so'nggi 20 yilda o'sish tendentsiyasini ko'rsatmoqda.
+
+AIP Conferences (2022) da e'lon qilingan tadqiqot natijalariga ko'ra,
+Sirdaryo viloyatida GIS yordamida tuzilgan tuproq sho'rlanish xaritalari
+drenaj tarmog'ining texnik holati va grunt suvlari harakatiga kuchli
+bog'liqligini isbotlagan (Development of GIS to change the level of
+soil salinity in Syrdarya region, AIP, 2022).
+
+**Botqoqlashish holati:**
+- Mirzacho'l hududi drenaj tizimining eskirganligi sababli botqoqlashish
+  keng tarqalgan;
+- Grunt suvlari sathi 2 m dan yuqori bo'lgan hududlar
+  sug'oriladigan maydonning 35–40 foizini tashkil etadi;
+- Kanallardan filtrasiya botqoqlashishning asosiy omili hisoblanadi.
+
+**O'simlik qoplami degradatsiyasi:**
+- NDVI ko'p yillik tahlili viloyat sug'oriladigan maydonlarida
+  o'simlik qoplami zichligining doimiy pasayishini ko'rsatadi;
+- Tashlab ketilgan va ishlatilmaydigan yer maydonlari o'sib bormoqda.
+
+### 1.2.4. Mavjud hisob tizimining holati
+
+Sirdaryo viloyatida sug'oriladigan yerlar degradatsiyasini hisobga olish
+quyidagi organlar tomonidan amalga oshiriladi:
+
+| Tashkilot | Vazifa | Usul | Chastota |
+|-----------|--------|------|---------|
+| Viloyat Davkadastr | Yer kadastrini yuritish | Dala tekshiruvi | Yiliga 1 marta |
+| Melioratsiya boshqarmasi | Grunt suvlari monitoringi | Kuzatuv quduqlari | Oylik |
+| Gidrogeologiya ekspeditsiya | Sho'rlanish baholash | Lab. tahlil | 3–5 yilda 1 marta |
+| Viloyat qishloq xo'jaligi | Hosildorlik statistikasi | Hisobot | Mavsumiy |
+
+Mavjud tizimning asosiy kamchiliklari:
+1. Ma'lumotlar yiliga 1 marta yangilanadi — real vaziyatni aks ettirmaydi;
+2. Faqat tanlangan namunaviy maydonlar tekshiriladi;
+3. GIS va kadastr ma'lumotlari integratsiyalashmagan;
+4. Kosmik texnologiyalar qo'llanilmaydi;
+5. Prognoz mexanizmi mavjud emas.
 
 ---
 
-## 1.4. GAT texnologiyalarining yer degradatsiyasini baholashdagi o'rni
+## § 1.3. GAT texnologiyalari va masofadan zondlash usullarini yerlar degradatsiyasini hisobini yuritishda qo'llash
 
-### 1.4.1. Masofadan zondlash (Remote Sensing)
+### 1.3.1. Geografik axborot tizimlari (GIS) va uning imkoniyatlari
 
-Masofadan zondlash texnologiyalari sug'oriladigan yerlar holatini keng mashtabda,
-tezkor va takrorlanadigan tarzda baholash imkonini beradi. Zamonaviy kosmik sistemalar
-orasida quyidagilar ayniqsa samarali hisoblanadi:
+Geografik axborot tizimlari (GIS) — makoniy ma'lumotlarni yig'ish,
+saqlash, tahlil qilish va vizualizatsiya qilish uchun mo'ljallangan
+integrallashgan dasturiy-texnik tizim. Yer degradatsiyasini baholashda
+GIS quyidagi asosiy imkoniyatlarni taqdim etadi:
+
+- **Makoniy tahlil** — turli manbalardagi ma'lumotlarni birlashtirib
+  murakkab tahlil o'tkazish;
+- **Xaritalash** — degradatsiya darajasini ko'rsatuvchi tematik
+  xaritalar tuzish;
+- **Vaqt qatori tahlili** — ko'p yillik o'zgarishlarni kuzatish;
+- **Prognozlash** — tendentsiyalar asosida kelajakni bashorat qilish;
+- **Qaror qabul qilishni qo'llab-quvvatlash** — boshqaruv organlari
+  uchun vizual ma'lumot taqdim etish.
+
+Asosiy GIS platformalari: ArcGIS (Esri), QGIS (ochiq manba),
+Google Earth Engine (bulutli).
+
+### 1.3.2. Masofadan zondlash (MZ) texnologiyalari
+
+Masofadan zondlash — yerning sun'iy yo'ldoshlari va havo apparatlari
+orqali yer yuzasi haqida bevosita kontaktsiz ma'lumot to'plash usuli.
+Sug'oriladigan yerlar monitoringida eng ko'p ishlatiladigan
+kosmik sistemalar:
 
 **Landsat dasturi (NASA/USGS):**
-Landsat 4 dan boshlab (1982 yildan) uzluksiz ma'lumot to'plamoqda. Landsat 8 va 9
-(2013, 2021) 30 m fazoviy aniqlikda, 16 kunlik takrorlash davri bilan 11 ta kanal
-ma'lumotlarini taqdim etadi. Yer degradatsiyasini ko'p yillik tahlil qilishda Landsat
-arxivi beqiyos manba hisoblanadi (Wulder et al., 2022).
 
-**Sentinel dasturi (ESA — Yevropa Kosmik Agentligi):**
-Sentinel-2 (2015 yildan) 10–60 m aniqlikda 13 ta spektral kanal ma'lumotlarini 5 kunlik
-takrorlash davri bilan taqdim etadi. Sentinel-1 esa SAR (sintetik aperturali radar)
-ma'lumotlari orqali bulutli ob-havo sharoitida ham yerlarni monitoring qilish imkonini beradi.
+| Parametr | Landsat 8 (OLI) | Landsat 9 (OLI-2) |
+|----------|----------------|------------------|
+| Ishga tushgan yili | 2013 | 2021 |
+| Fazoviy aniqlik | 30 m (15 m pan) | 30 m (15 m pan) |
+| Spektral kanallar | 11 ta | 11 ta |
+| Takrorlash davri | 16 kun | 16 kun |
+| Arxiv (Landsat 1 dan) | 1972 yildan | — |
 
-**MODIS (Terra/Aqua):**
-250–500 m aniqlikda, lekin kundalik ma'lumot beradi. Katta maydondagi NDVI vaqt qatorini
-tahlil qilishda va LPD baholashda keng qo'llaniladi.
+Landsat arxivining 50 yillik uzluksiz ma'lumoti yer degradatsiyasini
+ko'p yillik tahlil qilishda beqiyos manba hisoblanadi (Wulder et al., 2022).
 
-### 1.4.2. Spektral indekslar va ularning ahamiyati
+**Sentinel dasturi (ESA Copernicus):**
 
-Masofadan zondlash ma'lumotlari asosida hisoblangan spektral indekslar tuproq va o'simlik
-holatini bevosita ifodalaydi:
+| Parametr | Sentinel-2A/2B | Sentinel-1A/1B |
+|----------|---------------|---------------|
+| Texnologiya | Optik (MSI) | SAR radar |
+| Fazoviy aniqlik | 10–60 m | 5–20 m |
+| Spektral kanallar | 13 ta | — |
+| Takrorlash davri | 5 kun | 12 kun |
+| Afzalligi | Yuqori aniqlik | Bulutda ham ishlaydi |
 
-**NDVI (Normalized Difference Vegetation Index):**
+Sentinel-2 ning 10 m aniqlikdagi kanallar va 5 kunlik takrorlash davri
+sug'oriladigan yerlar monitoringida juda qulay (Kust et al., 2023).
+
+**MODIS (Terra/Aqua, NASA):**
+- 250–500 m aniqlik, lekin **kundalik** ma'lumot beradi;
+- MOD13Q1 mahsuloti — 16 kunlik NDVI kompoziti;
+- Uzoq muddatli tendentsiya tahlilida keng qo'llaniladi.
+
+### 1.3.3. Spektral indekslar — degradatsiyani aniqlash asbobi
+
+Kosmik tasvirlarning spektral kanallaridan hisoblangan indekslar
+tuproq va o'simlik holatini bevosita aks ettiradi:
+
+**NDVI — O'simlik qoplami indeksi:**
 ```
-NDVI = (NIR - RED) / (NIR + RED)
+NDVI = (NIR − RED) / (NIR + RED)
 ```
-O'simlik qoplami zichligi va sog'lig'ini o'lchaydi. -1 dan +1 gacha o'zgaradi.
-0,2 dan past qiymatlar degradatsiyalashgan yoki kam o'simlikli hududlarni bildiradi.
-Sug'oriladigan yerlarning vaqt qatori NDVI tahlili (Hamidov et al., 2016) O'zbekistonda
-o'simlik qoplami pasayishi tendentsiyasini aniqlashda samarali ekanligi isbotlangan.
+Qiymat oralig'i: −1 dan +1 gacha.
+Sug'oriladigan yerlar uchun: NDVI < 0,2 — degradatsiya belgisi.
 
-**NDSI (Normalized Difference Salinity Index):**
+**NDSI — Sho'rlanish indeksi:**
 ```
-NDSI = (RED - NIR) / (RED + NIR)
+NDSI = (RED − NIR) / (RED + NIR)
 ```
-Tuproq sho'rlanishini aniqlashda qo'llaniladi. Yuqori NDSI qiymatlari yuqori sho'rlanishni
-bildiradi. Amudaryo tumanida o'tkazilgan tadqiqot (E3S Conferences, 2024) ushbu indeks
-yordamida 72% aniqlik va 81% Kappa qiymati erishilganligini ko'rsatdi.
+Yuqori NDSI qiymati sho'rlangan tuproqni bildiradi.
+Markaziy Farg'ona vodiysida validatsiya: r = 0,84 (Mirsagatov et al., 2021).
 
-**SI (Salinity Index):**
+**SI — Oddiy sho'rlanish indeksi:**
 ```
 SI = √(GREEN × RED)
 ```
-Tuproq sho'rlanganligini aniqlashning soddaroq usuli.
+Tuproq yuzasida tuz kristallarining to'planishini aniqlashda samarali.
 
-**NDWI (Normalized Difference Water Index):**
+**NDWI — Suv/namlik indeksi:**
 ```
-NDWI = (GREEN - NIR) / (GREEN + NIR)
+NDWI = (GREEN − NIR) / (GREEN + NIR)
 ```
-Suv ob'ektlari va yerning namlanish darajasini o'lchaydi. Botqoqlashgan yerlarni
-aniqlashda qo'llaniladi.
+NDWI > 0 — suv va botqoqlashgan hududlar belgisi.
 
-**SAVI (Soil-Adjusted Vegetation Index):**
+**SAVI — Tuproq-moslashtirilgan o'simlik indeksi:**
 ```
-SAVI = ((NIR - RED) / (NIR + RED + L)) × (1 + L), bu yerda L = 0.5
+SAVI = ((NIR − RED) / (NIR + RED + 0,5)) × 1,5
 ```
-Qurg'oq va yarim qurg'oq hududlarda, tuproq foni ta'sirini kamaytirgan holda
-o'simlik qoplamini aniqroq baholash uchun qo'llaniladi.
+Qurg'oq hududlarda tuproq fonining ta'sirini kamaytiradi.
 
-### 1.4.3. GIS tahlil usullari
+### 1.3.4. Google Earth Engine (GEE) platformasi
 
-GIS (Geografik Axborot Tizimlari) degradatsiya ma'lumotlarini makoniy tahlil qilish,
-xaritalash va qaror qabul qilishni qo'llab-quvvatlash uchun zarur muhitni ta'minlaydi.
-Asosiy GIS tahlil usullari:
+Google Earth Engine — yerning masofadan zondlash ma'lumotlarini bulutli
+hisoblash muhitida tahlil qilish uchun mo'ljallangan platforma (Gorelick
+et al., 2017). Asosiy afzalliklari:
 
-- **Makoniy interpolatsiya** (IDW, Kriging) — dala namunaviy nuqtalar asosida to'liq
-  xarita yaratish;
-- **Ko'p mezonli tahlil (MCDA)** — bir necha omillarni birlashtirgan holda degradatsiya
-  xavfini baholash;
-- **Vaqt qatori tahlili** — ko'p yillik ma'lumotlar asosida tendentsiyalarni aniqlash;
-- **Makoniy statistika** (Moran's I, Getis-Ord Gi*) — degradatsiya klasterlarini aniqlash.
+- **40+ yillik** Landsat, Sentinel, MODIS arxivlari bepul mavjud;
+- **JavaScript va Python API** — dasturlash orqali tahlilni
+  avtomatlashtirish mumkin;
+- **Serverda hisoblash** — katta hajmli ma'lumotlar lokal
+  kompyuterni yuklamaydi;
+- **Keng hamjamiyat** — tayyor skriptlar va misollar ko'p.
 
----
+GEE platfrormasi sug'oriladigan yerlar degradatsiyasini choraklik
+avtomatlashtirilgan monitoring qilish uchun dissertatsiyada asosiy
+texnologik vosita sifatida qo'llaniladi.
 
-## 1.5. O'zbekiston va Markaziy Osiyoda o'tkazilgan tadqiqotlar tahlili
+### 1.3.5. GAT texnologiyalaridan foydalanishning xalqaro tajribasi
 
-### 1.5.1. Xalqaro tadqiqotlar
+Xalqaro miqyosda GAT texnologiyalari yer degradatsiyasini baholashda
+keng qo'llanilmoqda:
 
-Sug'oriladigan yerlar degradatsiyasini masofadan zondlash va GIS yordamida baholash
-bo'yicha xalqaro tadqiqotchilar tomonidan bir qator muhim ishlar amalga oshirilgan.
+**UNCCD LDN monitoring tizimi:**
+Barcha 123 ta a'zo davlat uchun uchta global ko'rsatkich bo'yicha
+(yer qoplami, yer mahsuldorligi, tuproq organik uglerod) monitoring
+MODIS va Landsat ma'lumotlari asosida amalga oshiriladi (Orr et al., 2017).
 
-**Ibrakhimov et al. (2007)** — O'zbekistonda sug'oriladigan yerlarning sho'rlanish
-dinamikasini 1980–2005 yillar davomida tahlil qilib, grunt suvlari va sho'rlanish
-o'rtasidagi bog'liqlikni aniqladi.
+**Yevropa Ittifoqi — LUCAS dasturi:**
+Har uch yilda barcha EU mamlakatlari bo'yicha yer qoplami va holati
+GIS asosida inventarizatsiya qilinadi.
 
-**Conrad et al. (2012)** — Springer Environmental Monitoring and Assessment jurnalida
-chop etilgan ushbu tadqiqot Landsat va logistik regressiya modeli kombinatsiyasidan
-foydalanib O'zbekistonning past tekisliklaridagi ekin yerlar degradatsiyasini
-makoniy-vaqtli tahlil qildi. Tadqiqotchi Markaziy Osiyo uchun umumiy monitoring
-vositasi yaratish zarurligi xulosa sifatida ilgari surildi.
+**Avstraliya — TERN (Terrestrial Ecosystem Research Network):**
+Butun qit'a bo'ylab sug'oriladigan yerlar monitoringi Landsat va
+Sentinel ma'lumotlari asosida real vaqtga yaqin rejimda olib boriladi.
 
-**Yuldashev et al. (2021)** — Sirdaryo viloyatida IDW interpolatsiya metodidan foydalanib
-tuproq sho'rlanishining vaqt dinamikasini baholadi. Natijalar sho'rlanishning mahalliy
-relyef sharoitlariga kuchli bog'liqligini ko'rsatdi.
-
-**Kust et al. (2023)** — MDPI Sensors jurnalida nashr etilgan ushbu ishda LDN
-kontseptsiyasi O'zbekistondagi to'rtta viloyat (Andijon, Namangan, Farg'ona, Sirdaryo)
-uchun qo'llanildi. Tadqiqot Sentinel-2 va MODIS ma'lumotlari asosida sug'oriladigan
-yerlarning barqarorlik tendentsiyasini bahоlash imkoniyatini isbotladi.
-
-**Mirsagatov et al. (2021)** — Markaziy Farg'ona vodiysida Landsat 8 OLI yordamida
-tuproq sho'rlanishini baholadi va spektral indekslarning an'anaviy laboratoriya tahlili
-bilan yuqori korrelyatsiyasini aniqladi.
-
-### 1.5.2. Mahalliy tadqiqotlar
-
-O'zbekistonda yer degradatsiyasini GAT yordamida baholash bo'yicha bir qator ilmiy ishlar
-amalga oshirilgan. Toshkent davlat agrar universiteti, O'zbekiston Milliy universiteti va
-O'zbekiston Yer resurslari davlat qo'mitasida bu yo'nalishda tadqiqotlar olib borilmoqda.
-Biroq, mavjud ishlarning aksariyati:
-- Kichik hududlarga yo'naltirilgan (tuman yoki massiv darajasi);
-- Bir martalik baholash bilan cheklanadi (ko'p yillik monitoring yo'q);
-- Kadastr tizimi bilan integratsiyani o'z ichiga olmaydi;
-- Avtomatlashtirilgan yangilanish mexanizmiga ega emas.
-
-Ushbu kamchiliklar dissertatsiya mavzusining dolzarbligini yanada tasdiqlaydi.
+**O'zbekiston va Markaziy Osiyo tajribasi:**
+Kust et al. (2023) Sensors jurnalida e'lon qilgan tadqiqotda
+O'zbekistonning to'rtta viloyatida LDN kontseptsiyasi GEE orqali
+muvaffaqiyatli qo'llanilganligi ko'rsatildi. Conrad et al. (2012)
+Sirdaryo viloyatini ham o'z ichiga olgan O'zbekiston past tekisliklari
+uchun Landsat + logistik regressiya modelini taklif qildi.
 
 ---
 
-## 1.6. Yerlar kadastrи va degradatsiya hisobi
+## Birinchi bob bo'yicha xulosa
 
-### 1.6.1. Mavjud kadastr tizimining holati
+I bob bo'yicha quyidagi asosiy xulosalar shakllandi:
 
-O'zbekistonda yer kadastr tizimi O'zbekiston Respublikasi Yer resurslari, geodeziya,
-kartografiya va davlat kadastr agentligi (Davkadastr) tomonidan yuritiladi. Kadastrda
-yerlarning miqdori, sifati, huquqiy holati va baholash ko'rsatkichlari hisobga olinadi.
-Biroq, kadastr ma'lumotlarining yangilanishi yillik rejalashtirilgan tekshiruvlarga asoslanib,
-real vaqt rejimida amalga oshirilmaydi.
+1. Sug'oriladigan yerlar degradatsiyasi — sho'rlanish, botqoqlashish
+   va tuproq unumdorligining pasayishi ko'rinishida namoyon bo'ladigan
+   murakkab jarayon bo'lib, O'rta Osiyo sharoitida, xususan Sirdaryo
+   viloyatida, juda keng tarqalgan;
 
-Sug'oriladigan yerlar degradatsiyasi kadastrda quyidagi ko'rsatkichlar orqali aks ettirilishi
-lozim: sho'rlanish darajasi, botqoqlashish darajasi, eroziya darajasi, yer sifat bali (ball
-boniteti). Biroq, amaliyotda bu ko'rsatkichlar ko'pincha eskirgan ma'lumotlarga asoslanadi
-va ko'p hududlarda haqiqiy holatni aks ettirmaydi.
+2. Sirdaryo viloyatida sug'oriladigan yerlarning 50 foiziga yaqini
+   turli darajada sho'rlangan; botqoqlashish esa maydonnig 35–40 foizida
+   kuzatiladi. Mavjud hisob tizimi bu jarayonlarni o'z vaqtida aniqlash
+   va bartaraf etish uchun yetarli emas;
 
-### 1.6.2. GAT-kadastr integratsiyasining zarurligi
+3. GAT texnologiyalari — Landsat, Sentinel-2, MODIS kosmik ma'lumotlari,
+   spektral indekslar (NDVI, NDSI, NDWI) va GIS tahlili — yer degradatsiyasini
+   keng maydonda, tezkor va aniq baholash imkonini beradi;
 
-Bir qator davlatlarda (Niderlandiya, Germaniya, Avstraliya) yer kadastr tizimi GIS bilan
-to'liq integratsiyalashtirilgan bo'lib, o'zgarishlar real vaqtda yangilanadi. Masalan,
-Yevropa Ittifoqida LUCAS (Land Use and Coverage Area frame Survey) dasturi doirasida
-har uch yilda barqaror tarzda yer qoplami va holati inventarizatsiya qilinadi.
+4. Google Earth Engine platformasi degradatsiya monitoringini
+   avtomatlashtirish va choraklik yangilash uchun qulay texnologik
+   asos hisoblanadi;
 
-O'zbekistonda bunday integratsiyani joriy etish uchun texnologik va metodologik asos
-yaratish — hozirgi tadqiqotning asosiy vazifalaridan biridir.
-
----
-
-## 1.7. Google Earth Engine va bulutli hisoblash platformalari
-
-Google Earth Engine (GEE) — kosmik masofadan zondlash ma'lumotlarini bulutli hisoblash
-muhitida tahlil qilish uchun mo'ljallangan platforma bo'lib, 2010 yildan beri faoliyat
-ko'rsatmoqda. GEE ning asosiy afzalliklari (Gorelick et al., 2017):
-- 40 yildan ortiq Landsat arxivi;
-- Sentinel-1 va Sentinel-2 to'liq arxivi;
-- MODIS mahsulotlari;
-- JavaScript va Python API;
-- Serverda hisoblash — local kompyuterga katta ma'lumot yuklash shart emas.
-
-Sug'oriladigan yerlar monitoringida GEE platformasining samaradorligi bir qator tadqiqotlarda
-isbotlangan. Mazkur dissertatsiyada GEE platformasidan avtomatlashtirilgan monitoring
-algoritmi yaratishda foydalanish rejalashtirilgan.
+5. Xalqaro tajriba GAT texnologiyalarining yer degradatsiyasini
+   hisobga olishda yuqori samaradorligini tasdiqlaydi va O'zbekistonda
+   ham bu yondashuvni qo'llash ilmiy asoslanganligini ko'rsatadi.
 
 ---
 
-## 1.8. Adabiyotlar sharhining xulosasi
-
-Yuqorida keltirilgan tadqiqotlar tahlili quyidagi asosiy xulosalarga kelish imkonini beradi:
-
-1. Sug'oriladigan yerlar degradatsiyasi — O'zbekiston va butun Markaziy Osiyo uchun
-   jiddiy ekologik-iqtisodiy muammo bo'lib, uni hal etishga zamonaviy yondashuv talab qilinadi;
-
-2. GAT texnologiyalari (masofadan zondlash, GIS, spektral indekslar) sug'oriladigan yerlar
-   degradatsiyasini samarali baholash va monitoring qilish uchun zarur vositalarni taqdim etadi;
-
-3. LDN kontseptsiyasi va SDG 15.3 maqsadi degradatsiya hisobini tizimli yuritish uchun
-   xalqaro metodologik asos yaratib beradi;
-
-4. Mavjud tadqiqotlar bir qator muhim bo'shliqlarni ko'rsatadi: kadastr bilan integratsiya
-   yo'qligi, avtomatlashtirilgan real vaqt monitoring mexanizmining mavjud emasligi,
-   ko'p yillik vaqt qatori tahlilining cheklanganligi;
-
-5. Ushbu bo'shliqlarni to'ldirish dissertatsiya tadqiqotining asosiy ilmiy vazifasidir.
-
----
-
-*Adabiyotlar ro'yxati VII bobda keltirilgan.*
+*Foydalanilgan adabiyotlar ro'yxati dissertatsiya oxirida keltirilgan.*

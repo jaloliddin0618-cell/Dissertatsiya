@@ -1,465 +1,386 @@
-# II BOB. TADQIQOT OB'EKTI, MA'LUMOTLAR VA METODOLOGIYA
+# II BOB. SUG'ORILADIGAN YERLAR DEGRADATSIYASINI ANIQLASH VA HISOB OLISHNING USLUBIY ASOSLARI
 
-## 2.1. Tadqiqot hududining tavsifi
+## § 2.1. Sug'oriladigan yerlar degradatsiyasini aniqlashning ilmiy-uslubiy asoslari
 
-### 2.1.1. Umumiy geografik tavsif
+### 2.1.1. Degradatsiyani aniqlashning an'anaviy uslublari
 
-Tadqiqot hududi sifatida O'zbekiston Respublikasining **Farg'ona viloyati** tanlangan.
-Farg'ona viloyati O'zbekistonning janubi-sharqida joylashgan bo'lib, Farg'ona vodiysining
-markaziy qismini egallaydi. Asosiy geografik ko'rsatkichlar:
+Sug'oriladigan yerlar degradatsiyasini aniqlashda an'anaviy va zamonaviy
+uslublar bir-birini to'ldiradi. An'anaviy uslublar asosan quyidagilardan iborat:
 
-| Ko'rsatkich | Qiymat |
-|-------------|--------|
-| Umumiy maydon | 6 760 km² |
-| Sug'oriladigan yer maydoni | ~450 000 ga |
-| Aholisi (2023) | ~4 015 000 kishi |
-| Qishloq aholisi ulushi | 45% |
-| Koordinatalar | 40°–41° sh.k., 70°–72° sh.u. |
-| Dengiz sathidan balandligi | 380–500 m |
+**Dala tekshiruvi (field survey):**
+Mutaxassislar bevosita dala sharoitida tuproq namunalarini oladi va
+ko'zga ko'rinadigan degradatsiya belgilarini qayd etadi. Bu uslub
+eng aniq natija beradi, ammo katta vaqt va moliyaviy xarajat talab qiladi,
+keng hududlarni qamrab olish imkoni esa cheklangan.
 
-Farg'ona vodiysi O'zbekistonning eng sersuv va eng intensiv sug'oriladigan hududlaridan
-biri hisoblanadi. Vodiydagi daryo tizimi asosini Sirdaryoning yuqori oqimlari — Naryn va
-Qoradaryo daryolari tashkil etadi. Iqlimi kontinental bo'lib, yozda quruq va issiq (iyul
-o'rtacha harorat +27°C), qishda nisbatan sovuq (+1°C) keladi.
+Dala tekshiruvi ko'rsatkichlari:
+- Tuproq yuzasida tuz kristallarining ko'rinishi;
+- O'simlik qoplamining seyraklanishi yoki yo'qligi;
+- Tuproq rangining o'zgarishi (oqarib ketish — sho'rlanish belgisi);
+- Grunt suvlari sathini kuzatuv quduqlari orqali o'lchash.
 
-### 2.1.2. Qishloq xo'jaligi va sug'orish tizimi
+**Laboratoriya tahlili:**
+Dala tekshiruvi jarayonida olingan tuproq namunalari
+laboratoriyada quyidagi ko'rsatkichlar bo'yicha tahlil qilinadi:
 
-Farg'ona viloyatida dehqonchilik asosan sug'orish orqali amalga oshiriladi. Asosiy
-ekin turlari: g'o'za, bug'doy, sholi, sabzavotlar va mevali bog'lar. Viloyatda jami
-sug'orish kanallarining uzunligi 8 500 km dan ortiq, shundan 1 200 km — magistral
-kanallar.
+| Ko'rsatkich | O'lchov birligi | Ahamiyati |
+|-------------|----------------|-----------|
+| EC (elektr o'tkazuvchanligi) | dS/m | Sho'rlanish darajasi |
+| pH | — | Tuproq muхiti |
+| Natriy, Xlorid, Sulfat | mg/kg | Tuz tarkibi |
+| Organik modda | % | Tuproq unumdorligi |
+| Mexanik tarkib | % | Tuproq teksturasi |
+| Grunt suvlari mineralizatsiyasi | g/l | Sho'rlanish manbai |
 
-O'zbekistonda qishloq xo'jaligi YAIMning taxminan 25 foizini tashkil etib, umumiy
-suv sarfining 90 foizini iste'mol qiladi (Jahon banki, 2025). 2,4 million gektardan
-ortiq qishloq xo'jaligi yerlari nasoslar yordamida sug'oriladi. Sug'orish
-infratuzilmasining eskirganligi suv yo'qotishlarini oshirmoqda, bu esa botqoqlashish
-va sho'rlanishni kuchaytirmoqda.
+**Kartografik uslub:**
+An'anaviy uslubda dala ma'lumotlari asosida qog'oz yoki raqamli
+xaritalar tuziladi. Biroq bu xaritalar tezda eskirib qoladi va
+muntazam yangilanishni talab qiladi.
 
-### 2.1.3. Degradatsiyaning mavjud holati
+### 2.1.2. Zamonaviy GAT asosidagi uslublar
 
-Farg'ona vodiysida o'tkazilgan tadqiqotlar shuni ko'rsatadiki (Mirsagatov et al., 2021):
-- Sug'oriladigan yerlarning ~35% turli darajada sho'rlangan;
-- ~20% botqoqlashish belgilari mavjud;
-- Grunt suvlari sathi ko'p hududlarda 1–2 m oralig'ida joylashgan;
-- O'simlik qoplami zichligi (NDVI) 1990-yillar bilan solishtirganda sezilarli pasaygan.
+GAT texnologiyalari an'anaviy uslublarning kamchiliklarini bartaraf etib,
+degradatsiyani yanada samarali aniqlash imkonini beradi.
+
+**Masofadan zondlash asosidagi uslub:**
+Kosmik tasvirlardan hisoblangan spektral indekslar tuproq va o'simlik
+holatini bevosita aks ettiradi. Bu uslubning asosiy bosqichlari:
+
+```
+1-bosqich: Kosmik tasvir yuklash (Landsat/Sentinel)
+           │
+           ▼
+2-bosqich: Geometrik va atmosfera korreksiyasi
+           │
+           ▼
+3-bosqich: Spektral indekslar hisoblash (NDVI, NDSI, NDWI)
+           │
+           ▼
+4-bosqich: Klassifikatsiya (supervised/unsupervised)
+           │
+           ▼
+5-bosqich: Xarita tuzish va vizualizatsiya
+           │
+           ▼
+6-bosqich: Dala ma'lumotlari bilan tekshirish (validatsiya)
+```
+
+**IDW interpolatsiya uslubi:**
+Sirdaryo viloyatida o'tkazilgan tadqiqotlar (Yuldashev et al., 2021)
+shuni ko'rsatdiki, kuzatuv quduqlari ma'lumotlari asosida IDW
+(Inverse Distance Weighting) interpolatsiya uslubi yordamida
+tuproq sho'rlanishi xaritasini tuzish yuqori aniqlikni ta'minlaydi
+(RMSE = 1,18 dS/m). IDW formulasi:
+
+```
+Z(x) = Σ[Z(xᵢ) / d(x,xᵢ)ᵖ] / Σ[1 / d(x,xᵢ)ᵖ]
+
+bu yerda:
+  Z(x)    — interpolatsiya qilinayotgan nuqta qiymati
+  Z(xᵢ)   — ma'lum nuqta qiymati
+  d(x,xᵢ) — masofа
+  p        — og'irlik daraja (odatda p = 2)
+```
+
+**Ko'p mezonli tahlil (MCDA):**
+Degradatsiya xavfini baholashda bir necha omillarni og'irlikli
+birlashtirish uslubi (Weighted Linear Combination):
+
+```
+D = W₁×Sho'rlanish + W₂×Botqoqlashish + W₃×NDVI_kamayish + ...
+```
+
+### 2.1.3. Degradatsiya indikatorlari tizimi
+
+Sug'oriladigan yerlar degradatsiyasini kompleks baholash uchun
+quyidagi indikatorlar tizimi qo'llanilishi tavsiya etiladi:
+
+**Bevosita indikatorlar (to'g'ridan-to'g'ri o'lchanadigan):**
+
+| Indikator | O'lchov usuli | Maqbul chegara |
+|-----------|--------------|----------------|
+| Tuproq sho'rlanishi (ECe) | Lab. tahlil / NDSI | < 4 dS/m |
+| Grunt suvlari sathi | Kuzatuv quduqlari | > 1,5 m |
+| NDVI qiymati | Kosmik tasvir | > 0,3 |
+| Botqoqlashish maydoni | NDWI / GIS | 0% |
+| Tashlab ketilgan yer | Yer qoplami tasnifi | 0% |
+
+**Bilvosita indikatorlar (hisob-kitob yo'li bilan):**
+
+| Indikator | Hisoblash formulasi | Maqsad |
+|-----------|---------------------|--------|
+| LPD (Yer mahsuldorligi dinamikasi) | NDVI vaqt qatori moyili | Uzoq muddatli trend |
+| Sho'rlanish o'sish tezligi | ΔS/Δt | Dinamika |
+| Degradatsiya indeksi | f(ECe, GWT, NDVI) | Kompleks ball |
+
+### 2.1.4. Degradatsiya darajasini tasniflash tizimi
+
+Dissertatsiyada quyidagi besh darajali tasniflash tizimi qo'llaniladi:
+
+| Daraja | Ball | Tavsif | Chora-tadbir |
+|--------|------|--------|-------------|
+| Degradatsiyasiz | 0 | Barcha ko'rsatkichlar normada | Oddiy monitoring |
+| Kuchsiz | 1 | 1–2 ko'rsatkich chegarada | Kuzatish kuchaytirish |
+| O'rtacha | 2 | 2–3 ko'rsatkich yomon | Agrotexnik tadbirlar |
+| Kuchli | 3 | 3–4 ko'rsatkich yomon | Melioratsiya ishlari |
+| Juda kuchli | 4 | Barcha ko'rsatkichlar yomon | Rekultivatsiya |
 
 ---
 
-## 2.2. Tadqiqot uchun foydalanilgan ma'lumotlar
+## § 2.2. Degradatsiyaga uchragan sug'oriladigan yerlarni tahlil qilish bo'yicha xorijiy tajribalar va ularni O'zbekistonda qo'llash imkoniyatlari
 
-### 2.2.1. Kosmik tasvirlar
+### 2.2.1. Misr tajribasi — Nil deltasida GIS asosidagi monitoring
 
-Tadqiqotda quyidagi kosmik ma'lumotlar manbalari ishlatiladi:
+Misr — dunyodagi eng katta sug'oriladigan hudud bo'lmish Nil deltasida
+yer degradatsiyasi muammosi O'zbekistonga juda o'xshash. Misr tajribasida
+quyidagi asosiy yondashuvlar ishlab chiqilgan:
 
-#### a) Landsat 8/9 (NASA/USGS)
-| Parametr | Qiymat |
-|----------|--------|
-| Fazoviy aniqlik | 30 m (optik), 15 m (pan) |
-| Spektral kanallar | 11 ta (OLI + TIRS) |
-| Vaqt davri | 16 kun |
-| Ma'lumot davriy oralig'i | 2013–2024 |
-| Manba | USGS EarthExplorer (earthexplorer.usgs.gov) |
+**Gidro-sho'rlanish baholash tizimi (Amer, 2021; Remote Sensing MDPI):**
+Nil deltasida Sentinel-2 va Landsat ma'lumotlari yordamida sug'orish
+suvi sho'rlanganligi, botqoqlashish va ekin yerlari degradatsiyasining
+makoniy bog'liqligi o'rganildi. Tadqiqot natijalari:
+- Sentinel-2 tasvirlari sho'rlanishni aniqlashda 85% aniqlik berdi;
+- Sug'orish suvi sifati va tuproq sho'rlanganligi o'rtasida kuchli
+  korrelyatsiya (r = 0,81) aniqlandi;
+- Botqoqlashish va sho'rlanish klasterlari kanallar bo'yida to'planadi.
 
-Ishlatilgan Landsat kanallar va degradatsiya tahlilida ularning vazifasi:
+**O'zbekistonga qo'llash imkoniyati:** Sirdaryo bo'yi hududlari va
+magistral kanallar atrofida xuddi shunday klaster tahlili o'tkazish
+mumkin. Sirdaryo daryosi bo'yidagi yerlar tarkibi Nil deltasiga
+o'xshash xususiyatlarga ega.
 
-| Kanal | Nomi | To'lqin uzunligi (µm) | Maqsad |
-|-------|------|----------------------|--------|
-| B2 | Ko'k (Blue) | 0.45–0.51 | SI hisoblash |
-| B3 | Yashil (Green) | 0.53–0.59 | NDWI, SI |
-| B4 | Qizil (Red) | 0.64–0.67 | NDVI, NDSI |
-| B5 | Yaqin infraqizil (NIR) | 0.85–0.88 | NDVI, NDWI |
-| B6 | SWIR-1 | 1.57–1.65 | Tuproq namligi |
-| B7 | SWIR-2 | 2.11–2.29 | Sho'rlanish |
-| B10 | Termal (TIRS) | 10.6–11.2 | Yer yuzasi harorati |
+### 2.2.2. Hindiston tajribasi — Haryona shtatida GIS asosidagi hisob
 
-#### b) Sentinel-2A/2B (ESA Copernicus)
-| Parametr | Qiymat |
-|----------|--------|
-| Fazoviy aniqlik | 10 m (B2,B3,B4,B8), 20 m (B5–B7,B11,B12), 60 m |
-| Spektral kanallar | 13 ta |
-| Vaqt davri | 5 kun (ikkita sun'iy yo'ldosh) |
-| Ma'lumot davriy oralig'i | 2017–2024 |
-| Manba | Copernicus Open Access Hub / GEE |
+Hindistonning Haryona shtati (shimoli-g'arb) O'zbekistonga o'xshash
+yarim qurg'oq iqlim va sug'oriladigan dehqonchilik bilan xarakterlanadi.
 
-#### c) MODIS Terra/Aqua
-| Parametr | Qiymat |
-|----------|--------|
-| Fazoviy aniqlik | 250–500 m (NDVI), 1 km (LST) |
-| Vaqt davri | Kunlik |
-| Mahsulotlar | MOD13Q1 (NDVI, 16 kunlik kompozit) |
-| Ma'lumot davriy oralig'i | 2000–2024 |
-| Maqsad | Uzoq muddatli LPD tahlili |
+**GIS va melioratsiya boshqaruvi:**
+Hindistonda Uttar Pradesh Bhumi Sudhar Nigam (Yer isloh qilish
+tashkiloti) GIS texnologiyalarini dehqonchilik yerlarini boshqarishda
+muvaffaqiyatli qo'llaydi:
+- Tuproq sho'rlanganligi, grunt suvlari va ekin holati haqidagi
+  ma'lumotlar yagona GIS platformasida birlashtirilgan;
+- Fermer parchalari darajasida degradatsiya xaritasi tuzilgan;
+- Natijalar kadastr ma'lumotlari bilan bog'langan.
 
-### 2.2.2. Dala tadqiqoti ma'lumotlari (Ground Truth)
+**O'zbekistonga qo'llash imkoniyati:** Yer parchalari darajasida
+degradatsiya ballini kadastr tizimiga kiritish — Hindiston modelini
+bevosita qo'llash mumkin bo'lgan yo'nalish.
 
-Masofadan zondlash natijalarini tasdiqlash uchun dala tadqiqoti o'tkazildi.
-Namunaviy nuqtalar tanlash metodikasi:
+### 2.2.3. Janubiy Afrika tajribasi — sug'orish sxemalarida monitoring
 
-- **Stratifikatsiya usuli**: degradatsiya darajasiga ko'ra zonalarga bo'lib, har zonadan
-  proporsional namunaviy nuqtalar olindi;
-- **Namunaviy nuqtalar soni**: 120 ta (har bir degradatsiya toifasi uchun kamida 30 ta);
-- **Laboratoriya tahlillari**: tuproq namunaviy EC (elektr o'tkazuvchanligi), pH,
-  grunt suvlari chuqurligi o'lchandi;
-- **GPS koordinatalari**: Garmin GPSmap 64s qurilmasi yordamida aniqlik ±3 m;
-- **Tasvirlarni olish davri**: vegetatsiya davri (aprel–iyun) va undan tashqari (noyabr–dekabr).
+Janubiy Afrikada botqoqlashish va tuz to'planishini kuzatish uchun
+ishlab chiqilgan metodologiya (ResearchGate, 2016) quyidagi
+elementlarni o'z ichiga oladi:
+- **Yer qoplami xaritalash** — Landsat yordamida;
+- **Yalang'och tuproq tahlili** (bare soil analysis) — vegetatsiya
+  davridan tashqarida ko'proq aniqlik beradi;
+- **Ko'p vaqtli ekin holati monitoringi** — NDVI vaqt qatori;
+- **Relyef tahlili** — botqoqlashish xavfi past joylarda yuqori;
+- **Qaror daraxti tahlili** (decision tree) — degradatsiya
+  sabablarini aniqlash uchun.
 
-### 2.2.3. Yerlar kadastr ma'lumotlari
+**O'zbekistonga qo'llash imkoniyati:** Mirzacho'lning tekis relyefida
+botqoqlashish relyef bilan kam bog'liq — lekin kanal joylashuvi
+va drenaj tizimi tahlili bu yondashuvdan foydalanishga imkon beradi.
 
-- O'zR Davkadastr ma'lumotlar bazasidan viloyat sug'oriladigan yerlari raqamli xaritasi;
-- Yer parchalari chegaralari (shapefile format);
-- Ball boniteti ko'rsatkichlari (2015 va 2020 yillar);
-- Ekin turlari va foydalanish rejimi ma'lumotlari.
+### 2.2.4. Italiya (Basilicata) tajribasi — GIS va masofadan zondlash kombinatsiyasi
 
-### 2.2.4. Gidrometeorologik ma'lumotlar
+Basilicata mintaqasida (Springer, 2022) iqlim o'zgarishi bilan
+bog'liq yer degradatsiyasini kuzatish uchun GIS va masofadan zondlash
+kombinatsiyalashtirilgan tizim ishlab chiqildi. Asosiy xususiyatlari:
+- Tuproq eroziyasi, sho'rlanish va organik uglerod yo'qolishi
+  bir vaqtda baholanadi;
+- 20 yillik Landsat arxivi tendentsiya tahlili uchun ishlatilgan;
+- Natijalar mahalliy hokimiyat va muhofaza qilish rejalashtirish
+  uchun amaliy vosita sifatida qo'llanilmoqda.
 
-- Farg'ona viloyati meteorologiya stansiyalari ma'lumotlari (yog'ingarchilik, harorat);
-- Grunt suvlari monitoringi stansiyalarining ko'p yillik ma'lumotlari;
-- Sug'orish suvi sifati (mineral tarkibi) tahlillari.
+**O'zbekistonga qo'llash imkoniyati:** Ko'p yillik arxiv tahlili
+va mahalliy hokimiyat bilan integratsiya — bevosita qo'llanishi
+mumkin bo'lgan tajriba.
+
+### 2.2.5. Xorijiy tajribalarning qiyosiy tahlili
+
+| Mamlakat | Qo'llangan texnologiya | Asosiy yutuq | O'zbekistonga mosligi |
+|----------|----------------------|-------------|----------------------|
+| Misr | Sentinel-2 + GIS klaster tahlil | Kanal bo'yida sho'rlanish aniqlash | Yuqori |
+| Hindiston | GIS + kadastr integratsiya | Fermer parsel darajasida hisob | Juda yuqori |
+| Janubiy Afrika | Ko'p vaqtli NDVI + qaror daraxti | Avtomatlashtirilgan tasnif | O'rtacha |
+| Italiya | Landsat arxivi + tendentsiya | Ko'p yillik tahlil | Yuqori |
+| O'zbekiston (Conrad et al., 2012) | Landsat + logistik regressiya | Degradatsiya xaritalash | To'g'ridan-to'g'ri |
+
+**Xulosa:** Xorijiy tajribalar shuni ko'rsatadiki, eng samarali yondashuv —
+masofadan zondlash, GIS va kadastr tizimining integratsiyasi bo'lib,
+Sirdaryo viloyatida ham aynan shu yondashuvni qo'llash maqsadga muvofiqdir.
 
 ---
 
-## 2.3. Tadqiqot metodologiyasi
+## § 2.3. Degradatsiyaga uchragan sug'oriladigan yerlarni hisobga olishning uslubiy asoslari
 
-### 2.3.1. Umumiy metodologik sxema
+### 2.3.1. Hisob yuritishning davlat standartlari va normativ hujjatlari
 
-Tadqiqot quyidagi bosqichlardan iborat bo'ladi:
+O'zbekistonda sug'oriladigan yerlar degradatsiyasini hisobga olish
+quyidagi normativ-huquqiy hujjatlar asosida tartibga solinadi:
+
+- O'zR "Yer to'g'risida"gi Qonuni (1998, o'zgartishlar bilan);
+- O'zR "Davlat yer kadastri to'g'risida"gi Qonuni;
+- O'zR Vazirlar Mahkamasi qarorlari: yer kadastrini yuritish tartibi;
+- O'zR Davkadastr tomonidan tasdiqlangan "Yerlar sifatini baholash
+  metodikasi" (ball boniteti tizimi);
+- GOST 17.4.3.02-85 — Tuproqni muhofaza qilish davlat standarti.
+
+**Ball boniteti tizimi:**
+Hozirgi kunda O'zbekistonda yerlar sifati asosan "ball boniteti"
+ko'rsatkichi bilan baholanadi. Bu ko'rsatkich tuproqning tabiiy
+xususiyatlarini (granulometrik tarkib, gumus miqdori, sho'rlanish
+darajasi va h.k.) hisobga olgan holda 0 dan 100 gacha ball bilan
+ifodalanadi. Biroq ball boniteti:
+- 3–5 yilda bir marta yangilanadi (real vaqt emas);
+- GAT texnologiyalari bilan bog'lanmagan;
+- Dinamika va tendentsiyalarni ko'rsatmaydi.
+
+### 2.3.2. LDN asosidagi hisob yuritish metodologiyasi
+
+Xalqaro miqyosda UNCCD tomonidan ishlab chiqilgan LDN (Land
+Degradation Neutrality) metodologiyasi — hozirgi kunda eng ilg'or
+va keng qabul qilingan yondashuv hisoblanadi. LDN uslubiyati
+uchta asosiy ko'rsatkichni talab qiladi:
+
+**1. Yer qoplami o'zgarishi (Land Cover Change — LCC):**
+- Manba: MODIS MCD12Q1 yoki Landsat ma'lumotlari;
+- Hisoblash: ikki davr orasidagi o'zgarish matritsasi;
+- O'lchov: degradatsiyalashgan yer maydoni (ga yoki %);
+- Davriylik: har 1–5 yilda yangilash.
+
+**2. Yer mahsuldorligi dinamikasi (Land Productivity Dynamics — LPD):**
+- Manba: MODIS MOD13Q1 — 16 kunlik NDVI kompoziti;
+- Hisoblash: Mann-Kendall tendentsiya testi NDVI vaqt qatori bo'yicha;
+- Tasnif: yaxshilanmoqda / barqaror / yomonlashmoqda;
+- Davriylik: yillik yangilash.
+
+**3. Tuproq organik uglerod (Soil Organic Carbon — SOC):**
+- Manba: RothC modeli yoki WoSIS ma'lumotlar bazasi;
+- Hisoblash: t C/ha;
+- Davriylik: 5–10 yilda bir marta.
+
+### 2.3.3. Taklif etilayotgan hisob yuritish tizimining uslubiy asoslari
+
+Ushbu dissertatsiyada Sirdaryo viloyati uchun taklif etilayotgan
+degradatsiya hisobi tizimining uslubiy asosi quyidagi tamoyillarga
+asoslanadi:
+
+**1. Komplekslilik tamoyili:**
+Faqat bitta degradatsiya turi emas, balki sho'rlanish, botqoqlashish
+va o'simlik degradatsiyasi bir vaqtda baholanadi.
+
+**2. Davriylik tamoyili:**
+Yiliga 1 marta emas, balki har chorakda (yiliga 4 marta) yangilash
+ta'minlanadi.
+
+**3. Integratsiyalik tamoyili:**
+Degradatsiya ma'lumotlari kadastr tizimiga avtomatik uzatiladi
+va har bir yer parsel uchun degradatsiya bali hisoblanadi.
+
+**4. Validatsiya tamoyili:**
+Har bir yangilash dala tekshiruvi ma'lumotlari bilan taqqoslanadi
+va aniqlik baholanadi.
+
+**5. Shaffoflik tamoyili:**
+Barcha hisob-kitob metodlari va natijalar ochiq bo'lib, tegishli
+organlarga hisobot sifatida taqdim etiladi.
+
+### 2.3.4. Ma'lumotlarni yig'ish va birlashtirish uslubiyati
+
+Dissertatsiya tadqiqotida quyidagi ma'lumotlar manbalari
+integratsiyalashtiriladi:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                  TADQIQOT METODOLOGIYASI                     │
-└─────────────────┬───────────────────────────────────────────┘
-                  │
-        ┌─────────▼──────────┐
-        │  1. MA'LUMOTLARNI   │
-        │     YIG'ISH         │
-        │ • Kosmik tasvirlar  │
-        │ • Dala namunaviy    │
-        │ • Kadastr ma'lumot  │
-        └─────────┬──────────┘
-                  │
-        ┌─────────▼──────────┐
-        │  2. QAYTA ISHLASH  │
-        │ • Geometrik to'g'r │
-        │ • Radiometrik to'g'r│
-        │ • Atmosfera to'g'r  │
-        │ • Bulut maskasi     │
-        └─────────┬──────────┘
-                  │
-        ┌─────────▼──────────┐
-        │  3. SPEKTRAL        │
-        │     TAHLIL          │
-        │ • NDVI              │
-        │ • NDSI              │
-        │ • NDWI              │
-        │ • SI, SAVI          │
-        └─────────┬──────────┘
-                  │
-        ┌─────────▼──────────┐
-        │  4. KLASSIFIKATSIYA │
-        │ • Supervised        │
-        │ • Unsupervised      │
-        │ • Random Forest     │
-        └─────────┬──────────┘
-                  │
-        ┌─────────▼──────────┐
-        │  5. VALIDATSIYA     │
-        │ • Dala ma'lumotlari │
-        │ • Aniqlik matrisi   │
-        │ • Kappa koeffitsient│
-        └─────────┬──────────┘
-                  │
-        ┌─────────▼──────────┐
-        │  6. XARITALASH VA  │
-        │     MONITORING      │
-        │ • GIS xarita        │
-        │ • Kadastr integratsiya│
-        │ • Hisobot           │
-        └─────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│              MA'LUMOTLAR MANBALARI                    │
+├─────────────┬─────────────────────┬──────────────────┤
+│  KOSMIK     │     DALA            │    KADASTR       │
+│  MA'LUMOT   │     MA'LUMOT        │    MA'LUMOT      │
+├─────────────┼─────────────────────┼──────────────────┤
+│ Landsat 8/9 │ Tuproq namunalari   │ Yer parchalari   │
+│ Sentinel-2  │ EC o'lchash         │ Ball boniteti    │
+│ MODIS NDVI  │ Grunt suvi chuqurl. │ Ekin rejimi      │
+│ Sentinel-1  │ GPS koordinatalari  │ Mulkchilik holati│
+│ DEM relyef  │ Lab. tahlil         │ Foydalanish turi │
+└─────────────┴─────────────────────┴──────────────────┘
+                        │
+                        ▼
+              MARKAZIY GIS PLATFORMA
+                (PostGIS / QGIS)
+                        │
+                        ▼
+              DEGRADATSIYA XARITASI
+                        │
+                        ▼
+              KADASTR YANGILASH
 ```
 
-### 2.3.2. Masofadan zondlash ma'lumotlarini qayta ishlash
+### 2.3.5. Validatsiya uslubiyati
 
-#### a) Geometrik korreksiya
-Kosmik tasvirlar USGS tomonidan Level-2 mahsulot sifatida taqdim etiladi va WGS84 /
-UTM (Zone 42N) koordinata tizimida registrlangan bo'ladi. Zarur hollarda 2-nchi darajali
-polinom transformatsiyasi va eng yaqin qo'shni interpolatsiya (nearest neighbor) usuli
-qo'llaniladi. Geometrik xato 0,5 pikseldan oshmasligi ta'minlanadi.
+Olingan natijalarning ishonchliligini baholash uchun quyidagi
+statistik ko'rsatkichlar hisoblanadi:
 
-#### b) Radiometrik va atmosfera korreksiyasi
-Landsat tasvirlari uchun USGS Collection 2 Level-2 mahsulotlaridan foydalaniladi.
-Bu mahsulotlar o'z ichiga to'lqin uzunligi o'ziga xos reflektanslikni (Surface Reflectance)
-oladi. Sentinel-2 uchun ESA tomonidan taqdim etilgan SEN2COR protsessori ishlatiladi
-(Bottom-of-Atmosphere reflektansi).
-
-Google Earth Engine platformasida:
-```javascript
-// Sentinel-2 bulut maskalash va indeks hisoblash misoli
-var s2 = ee.ImageCollection('COPERNICUS/S2_SR')
-  .filterBounds(studyArea)
-  .filterDate('2023-04-01', '2023-06-30')
-  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10))
-  .map(maskS2clouds);
-
-function maskS2clouds(image) {
-  var qa = image.select('QA60');
-  var cloudBitMask = 1 << 10;
-  var cirrusBitMask = 1 << 11;
-  var mask = qa.bitwiseAnd(cloudBitMask).eq(0)
-               .and(qa.bitwiseAnd(cirrusBitMask).eq(0));
-  return image.updateMask(mask).divide(10000);
-}
-```
-
-#### c) Ko'p vaqtli kompozitlash
-Mavsumiy tahlil uchun piksel asosidagi mediana kompozitlash (median composite) usuli
-qo'llaniladi. Bu bulut va soya ta'sirini minimallashtirishga imkon beradi.
-
-### 2.3.3. Spektral indekslarni hisoblash metodikasi
-
-**1. NDVI (O'simlik qoplami indeksi):**
-```
-NDVI = (NIR - RED) / (NIR + RED)
-```
-Landsat 8/9 uchun: NIR = B5, RED = B4
-Sentinel-2 uchun: NIR = B8, RED = B4
-
-NDVI klassifikatsiyasi (sug'oriladigan yerlar uchun):
-| NDVI oralig'i | Tavsif |
-|---------------|--------|
-| < 0.1 | Yalang'och tuproq / juda kuchli degradatsiya |
-| 0.1–0.2 | Juda siyrak o'simlik / kuchli degradatsiya |
-| 0.2–0.4 | Siyrak o'simlik / o'rtacha degradatsiya |
-| 0.4–0.6 | O'rtacha zich o'simlik / normal |
-| > 0.6 | Zich o'simlik / yaxshi holat |
-
-**2. NDSI (Sho'rlanish indeksi):**
-```
-NDSI = (RED - NIR) / (RED + NIR)
-```
-Farg'ona vodiysida o'tkazilgan tadqiqot (Mirsagatov et al., 2021) shuni ko'rsatdiki,
-NDSI sho'rlanishni aniqlashda boshqa indekslarga nisbatan yuqori aniqlik beradi.
-
-**3. SI (Oddiy sho'rlanish indeksi):**
-```
-SI = √(GREEN × RED)
-```
-Yuqori SI qiymatlar sho'rlangan hududlarni bildiradi. Ikkilamchi sho'rlanish va tuproq yuzasida
-tuz kristallari to'planganligini aniqlashda samarali.
-
-**4. NDWI (Suv indeksi / botqoqlashish):**
-```
-NDWI = (GREEN - NIR) / (GREEN + NIR)
-```
-NDWI > 0 bo'lgan hududlar suv sathida, ya'ni botqoqlashish xavfi bor deb belgilanadi.
-
-**5. EVI (Kuchaytirilgan o'simlik indeksi):**
-```
-EVI = 2.5 × (NIR - RED) / (NIR + 6×RED - 7.5×BLUE + 1)
-```
-NDVI to'yingan bo'lgan zich o'simlikli hududlarda qo'llaniladi.
-
-**6. SAVI (Tuproq moslashtirilgan o'simlik indeksi):**
-```
-SAVI = ((NIR - RED) / (NIR + RED + 0.5)) × 1.5
-```
-Qurg'oq hududlarda tuproq foni ta'sirini kamaytiradi.
-
-### 2.3.4. Klassifikatsiya metodlari
-
-#### a) Nazorat ostida klassifikatsiya (Supervised Classification)
-- **Maximum Likelihood (ML)** — an'anaviy statistik yondashuv;
-- **Random Forest (RF)** — ensemble machine learning usuli, 100–500 ta qaror daraxti;
-- **Support Vector Machine (SVM)** — ko'p o'lchamli makon klassifikatsiyasi.
-
-Random Forest klassifikatsiyasi uchun o'qitish ma'lumotlari:
-```
-Degradatsiya toifalari:
-  1 — Sho'rlangan (kuchsiz, o'rtacha, kuchli, juda kuchli)
-  2 — Botqoqlashgan
-  3 — O'simlik degradatsiyasi
-  4 — Normal sug'oriladigan yer
-  5 — Kombinatsiyalashgan degradatsiya
-```
-
-#### b) Nazorat ostida bo'lmagan klassifikatsiya (Unsupervised)
-Dastlabki xaritalash va sinf sonini aniqlash uchun K-Means algoritmi ishlatiladi.
-
-### 2.3.5. Ko'p yillik vaqt qatori tahlili
-
-Uzoq muddatli tendentsiyalarni aniqlash uchun quyidagi statistik usullar qo'llaniladi:
-
-**Mann-Kendall tendentsiya testi:**
-Vaqt qatori ma'lumotlarida statistik jihatdan muhim tendentsiyani aniqlash uchun
-parametrik bo'lmagan usul. Formula:
-```
-S = Σᵢ₌₁ⁿ⁻¹ Σⱼ₌ᵢ₊₁ⁿ sgn(xⱼ - xᵢ)
-```
-S > 0: o'sish tendentsiyasi, S < 0: kamayish tendentsiyasi.
-
-**Theil-Sen moyil (slope):**
-Mediana asosidagi regresion moyil hisoblash — anomal qiymatlarga chidamli.
-```
-β = median((xⱼ - xᵢ)/(j - i)) barcha j > i uchun
-```
-
-**Linear regression va R² koeffitsient:**
-Degradatsiya indekslarining yillik o'zgarish tezligini hisoblash uchun.
-
-### 2.3.6. Validatsiya metodikasi
-
-Klassifikatsiya natijalari va spektral indekslar bo'yicha yaratilgan xaritalar
-quyidagi metodlar bilan tekshiriladi:
-
-**Xatolar matrisi (Confusion Matrix):**
-```
-           Tashhis qilingan holat
-              Yer-1  Yer-2  Yer-3  Yer-4
-Haqiqiy  Yer-1 | TP  |  FP  |  FP  |  FP  |
-holat    Yer-2 | FN  |  TP  |  FP  |  FP  |
-         Yer-3 | FN  |  FN  |  TP  |  FP  |
-         Yer-4 | FN  |  FN  |  FN  |  TP  |
-```
+**Xatolar matritsasi (Confusion Matrix)** — klassifikatsiya
+aniqligi baholash uchun asosiy vosita.
 
 **Umumiy aniqlik (Overall Accuracy):**
 ```
-OA = (Σ TPᵢ) / N × 100%
+OA = (To'g'ri tasniflangan piksellar soni) / (Jami piksellar) × 100%
 ```
+Maqbul chegara: OA ≥ 85%
 
-**Kappa koeffitsienti:**
+**Kappa koeffitsienti (Cohen's Kappa):**
 ```
-K = (Po - Pe) / (1 - Pe)
+K = (Po − Pe) / (1 − Pe)
 ```
-K > 0.8 — juda yaxshi aniqlik, K 0.6–0.8 — yaxshi aniqlik qabul qilinadi.
+Maqbul chegara: K ≥ 0,80
 
-**RMSE (Root Mean Square Error)** — spektral indeks va laboratoriya o'lchash natijalari
-o'rtasidagi farqni baholash uchun:
+**RMSE — kvadrat o'rtacha xato:**
 ```
-RMSE = √(Σ(yᵢ - ŷᵢ)² / n)
+RMSE = √(Σ(yᵢ − ŷᵢ)² / n)
 ```
+Sho'rlanish uchun maqbul chegara: RMSE ≤ 1,5 dS/m
+
+**Pearson korrelyatsiyasi (r):**
+Spektral indeks (NDSI) va laboratoriya EC qiymatlari
+o'rtasidagi bog'liqlikni aniqlash uchun.
+Maqbul chegara: r ≥ 0,75
 
 ---
 
-## 2.4. GIS tahlil metodikasi
+## Ikkinchi bob bo'yicha xulosa
 
-### 2.4.1. Makoniy interpolatsiya
+II bob bo'yicha quyidagi asosiy xulosalar shakllandi:
 
-Dala namunaviy nuqtalaridan butun maydon xaritasini yaratish uchun:
+1. Sug'oriladigan yerlar degradatsiyasini aniqlashning ilmiy-uslubiy
+   asosi dala tekshiruvi, laboratoriya tahlili va GAT texnologiyalari
+   kombinatsiyasidan iborat bo'lib, har bir uslubning o'z afzalliklari
+   va cheklovlari mavjud;
 
-- **IDW (Inverse Distance Weighting)** — Sirdaryo viloyatida samarali ekanligi
-  isbotlangan (Yuldashev et al., 2021);
-- **Kriging** — variogramma modeliga asoslangan geostatistik interpolatsiya;
-- **Spline** — silliq yuzani modellashtirish uchun.
+2. IDW interpolatsiya, ko'p mezonli tahlil va spektral indekslar
+   kombinatsiyasi Sirdaryo viloyati sharoitida degradatsiyani
+   aniqlashning eng samarali uslubiy yondashuvi hisoblanadi;
 
-### 2.4.2. Ko'p mezonli tahlil (MCDA)
+3. Misr, Hindiston, Janubiy Afrika va Italiya tajribasi shuni
+   ko'rsatadiki, masofadan zondlash va GIS-kadastr integratsiyasi
+   — yer degradatsiyasini hisobga olishning zamonaviy va samarali
+   yondashuvi bo'lib, O'zbekiston sharoitida ham muvaffaqiyatli
+   qo'llanishi mumkin;
 
-Degradatsiya xavf xaritasini yaratish uchun bir necha omillarni birlashtirish:
+4. LDN metodologiyasi (yer qoplami, LPD, SOC) yer degradatsiyasini
+   tizimli baholash uchun xalqaro miqyosda tan olingan asos bo'lib,
+   bu dissertatsiyada qo'llaniladigan takomillashtirilgan tizim
+   shu metodologiyaga asoslanadi;
 
-| Omil | Og'irlik (%) | Asoslash |
-|------|-------------|---------|
-| Grunt suvlari chuqurligi | 25 | Botqoqlashish va sho'rlanishning asosiy omili |
-| Sho'rlanish indeksi (NDSI) | 25 | Bevosita sho'rlanish o'lchovi |
-| NDVI pasayishi | 20 | O'simlik va hosildorlik degradatsiyasi |
-| Tuproq turiga bog'liqlik | 15 | Sho'rlanishga moyillik |
-| Sug'orish intensivligi | 15 | Anthropogen ta'sir |
-| **Jami** | **100** | |
-
-### 2.4.3. Overlay (Qatlam ustma-ust qo'yish) tahlili
-
-Sho'rlanish, botqoqlashish va o'simlik degradatsiyasi xaritalarini birlashtirib
-kompleks degradatsiya xaritasini yaratish uchun:
-
-```
-Kompleks_degradatsiya = f(Sho'rlanish × W₁ + Botqoqlashish × W₂ + NDVI_kamayish × W₃)
-```
+5. Taklif etilayotgan tizimning uslubiy asosi beshta tamoyilga
+   (komplekslilik, davriylik, integratsiyalik, validatsiya,
+   shaffoflik) asoslanib, mavjud tizimning barcha asosiy
+   kamchiliklarini bartaraf etishga yo'naltirilgan.
 
 ---
 
-## 2.5. Dasturiy ta'minot va texnik vositalar
-
-### 2.5.1. GIS va masofadan zondlash dasturlari
-
-| Dastur | Versiya | Maqsad |
-|--------|---------|--------|
-| QGIS | 3.34 LTR | Asosiy GIS tahlil, xaritalash |
-| Google Earth Engine | Bulutli | Ko'p vaqtli tahlil, Python/JS API |
-| Python (Rasterio, GDAL) | 3.10+ | Rastr qayta ishlash, avtomatlash |
-| R (raster, sp, rgdal) | 4.3+ | Statistik tahlil, Mann-Kendall |
-| ENVI | 5.6 | Giperspektral tahlil |
-
-### 2.5.2. Python skripti — NDVI hisoblash misoli (Google Earth Engine)
-
-```python
-import ee
-ee.Initialize()
-
-# Tadqiqot hududini aniqlash
-study_area = ee.Geometry.Rectangle([70.0, 40.0, 72.0, 41.0])
-
-# Sentinel-2 tasvirlar kolleksiyasi
-s2 = (ee.ImageCollection('COPERNICUS/S2_SR_HARMONIZED')
-      .filterBounds(study_area)
-      .filterDate('2023-05-01', '2023-06-30')
-      .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10))
-      .median())
-
-# NDVI hisoblash
-ndvi = s2.normalizedDifference(['B8', 'B4']).rename('NDVI')
-
-# NDSI hisoblash (sho'rlanish)
-ndsi = s2.normalizedDifference(['B4', 'B8']).rename('NDSI')
-
-# NDWI hisoblash (botqoqlashish)
-ndwi = s2.normalizedDifference(['B3', 'B8']).rename('NDWI')
-
-# Natijalarni birlashtirish
-result = ndvi.addBands(ndsi).addBands(ndwi)
-
-# Export
-task = ee.batch.Export.image.toDrive(
-    image=result,
-    description='Fergana_Degradation_2023',
-    region=study_area,
-    scale=10,
-    crs='EPSG:32642'
-)
-task.start()
-print("Export boshlandi...")
-```
-
----
-
-## 2.6. Tadqiqotning chegara va cheklovlari
-
-Tadqiqot natijalarini talqin qilishda quyidagi cheklovlarni inobatga olish lozim:
-
-1. **Bulutli ob-havo** — Farg'ona vodiysi qishining ayrim davrlarida bulutlilik yuqori
-   bo'ladi; bu muammo Sentinel-1 SAR ma'lumotlari bilan qisman bartaraf etiladi;
-
-2. **Dala namunaviy ma'lumotlarning soni** — barcha maydoni qamrab olish uchun 120 ta
-   namunaviy nuqta etarli bo'lishi mumkin emas; biroq, stratifitsiyalangan tanlov bu
-   kamchilikni kamaytiradi;
-
-3. **Kadastr ma'lumotlarining eski bo'lishi** — ayrim er parchalari chegaralari va
-   sifat ko'rsatkichlari oxirgi 5–10 yil ichida yangilanmagan bo'lishi mumkin;
-
-4. **Masshtab muammosi** — 10–30 m piksel kattaligi bilan kichik yer parchalari (< 0,1 ga)
-   da aniqlik pasayishi mumkin.
-
----
-
-## 2.7. Ikkinchi bob bo'yicha xulosa
-
-Ushbu bobda tadqiqot hududi (Farg'ona viloyati), ishlatilgan ma'lumotlar manbalari
-(Landsat 8/9, Sentinel-2, MODIS, dala namunaviy, kadastr) va metodologiya (spektral
-indekslar, klassifikatsiya, vaqt qatori tahlili, GIS overlay, validatsiya) batafsil
-yoritildi. Taklif etilayotgan metodologiya:
-
-- Bir vaqtda uchta degradatsiya turini (sho'rlanish, botqoqlashish, o'simlik degradatsiyasi)
-  baholash imkonini beradi;
-- Avtomatlashtirilgan qayta ishlash Google Earth Engine platformasida amalga oshiriladi;
-- Natijalar validatsiya orqali tekshiriladi va kadastr tizimi bilan integratsiya uchun
-  tayyor format (GeoPackage, Shapefile) ga aylantiriladi.
-
----
-
-*Adabiyotlar ro'yxati VII bobda keltirilgan.*
+*Foydalanilgan adabiyotlar ro'yxati dissertatsiya oxirida keltirilgan.*
